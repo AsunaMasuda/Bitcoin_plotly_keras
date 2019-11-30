@@ -4,7 +4,7 @@
 <p align="center"><img src = "https://github.com/AsunaMasuda/Bitcoin_plotly_keras/blob/master/bit_image.jpg" width=500></p>
 
 ## Overview
-This notebook focuses on these two purposes below, mainly for the writer's self-learning purpose:
+This notebook focuses on these two aspects below, mainly for the writer's self-learning purpose:
 
 - Data clearning and analysis with Python libraries and Bitcoin price prediction by deep learning algolism called LSTM with Keras
 - Interactive Data visualizations with Plotly
