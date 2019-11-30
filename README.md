@@ -10,9 +10,11 @@ This notebook focuses on these two aspects below, mainly for the writer's self-l
 - Interactive Data visualizations with Plotly
 
 
-## Reference
-To create this notebook, 
-<br>For data visualization with Plotly:
-<br>I refered to [a Kaggle post](https://www.kaggle.com/kanncaa1/plotly-tutorial-for-beginners) by [DATAI](https://www.kaggle.com/kanncaa1) and Plotly [official document](https://plot.ly/python/).
-<br>For price prediction with LSRM by Keras:
-<br>I refered to [a jupyter notebook](https://github.com/dashee87/blogScripts/blob/master/Jupyter/2017-11-20-predicting-cryptocurrency-prices-with-deep-learning.ipynb) which explained an applicaiton of deep learning to Bitcoin/Etherium price prediction by a data scientist [David Sheeran](https://dashee87.github.io/about/).
+## Reference & Acknowledgement
+Data Visualization with Plotly,
+- [a Kaggle post](https://www.kaggle.com/kanncaa1/plotly-tutorial-for-beginners) by [DATAI](https://www.kaggle.com/kanncaa1) and Plotly [official document](https://plot.ly/python/).
+
+Price Prediction with LSTM by Keras,
+- [a jupyter notebook](https://github.com/dashee87/blogScripts/blob/master/Jupyter/2017-11-20-predicting-cryptocurrency-prices-with-deep-learning.ipynb) which explained an applicaiton of deep learning to Bitcoin/Etherium price prediction by a data scientist [David Sheeran](https://dashee87.github.io/about/).
+- [Predicting the price of Bitcoin using Machine Learning](http://trap.ncirl.ie/2496/1/seanmcnally.pdf) by Sean McNally
+- [WHY MIGHT SHARE PRICES FOLLOW A RANDOM WALK?](https://www.tcd.ie/Economics/assets/pdf/SER/2007/Samuel_Dupernex.pdf) by SAMUEL DUPERNEX
