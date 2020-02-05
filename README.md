@@ -6,7 +6,7 @@
 ## Overview
 This notebook focuses on these two aspects below, mainly for the writer's self-learning purpose:
 
-- Data clearning and analysis with Python libraries and Bitcoin price prediction by deep learning algolism called LSTM with Keras
+- Data cleaning and analysis with Python libraries and Bitcoin price prediction by deep learning algorithm called LSTM with Keras
 - Interactive Data visualizations with Plotly
 
 
