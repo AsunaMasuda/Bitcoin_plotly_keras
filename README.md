@@ -1,5 +1,5 @@
 # Bitcoin Analysis and Visualization with Plotly, Price Prediction with LSTM model
-\* In order to see fully rendered visualizations by Plotly in jupyter notebook, please visit [this link](https://mybinder.org/v2/gh/AsunaMasuda/Bitcoin_plotly_keras/d35716412d98a5640c0ab6210434343d2ded9872) on mybinder. (ipython files in Github repository cannot show visualizations by plotly.)
+In order to see fully rendered visualizations by Plotly in jupyter notebook, please visit [this link](https://nbviewer.jupyter.org/github/AsunaMasuda/Bitcoin_plotly_keras/tree/master/Bitcoin%20Analysis%20and%20Visualization%20with%20Plotly,%20Price%20Prediction%20with%20Keras.ipynb) on jupyter nbviewer. (ipython files in Github repository cannot show visualizations by plotly.)
 
 <p align="center"><img src = "https://github.com/AsunaMasuda/Bitcoin_plotly_keras/blob/master/bit_image.jpg" width=500></p>
 
